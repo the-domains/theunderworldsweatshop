@@ -1,0 +1,28 @@
+name: theunderworldsweatshop
+favicon: null
+layout_spectrum: 0.5055458480492234
+typography_spectrum: 0.9723066813312471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.07565537234768271
+  lightness: 0.6797672542743385
+  saturation: 0.34490617946721613
+  rhythmicContrast: 0.44507118314504623
+purpose: []
